@@ -1,6 +1,7 @@
-這是來自於齊博( 齐博CMS ) http://www.qibosoft.com/ 的一句話webshell
-幾乎他們每個出版的軟體都有, 這邊是來自於齐博的 CMS 整站系统
-因為太有趣了, 把webshel 提出來一個研究跟紀錄一下
-想說改天來逆看看
+這是來自於齊博( 齐博CMS整站系统 ) http://www.qibosoft.com/ 藏的一句話webshell
 
-這個的路徑是 v7/b2bfree/hack/upgrade/admin.php
+幾乎他們每個出版 share 出來的網站都有這或類似的webhsell
+
+因為太有趣了, 把 webshell 提出來, 想說有時間來研究兼小小紀錄, 改天來逆看看
+
+這個 shell 的路徑是 v7/b2bfree/hack/upgrade/admin.php
