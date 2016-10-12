@@ -6,5 +6,6 @@
 
 這個 shell 的路徑是 v7/b2bfree/hack/upgrade/admin.php
 
-2016 / 10 / 12 解完一句話的 Password 是
-base64_decodeZ3e5WbX5WYknZIpTaKmbXJWbSHbItGc5nNX
+2016 / 10 / 12 解完一句話
+
+Password 是 base64_decodeZ3e5WbX5WYknZIpTaKmbXJWbSHbItGc5nNX
